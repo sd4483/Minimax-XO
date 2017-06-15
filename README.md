@@ -18,7 +18,7 @@ This rule was evolved into an AI Algorithm used in many board games (chess, conn
 - Interactive game.
 - alpha-burring algorithm is used (optimized minimax).  
   
-  
+# License 
   
 **This Project is signed under GPL 3.0 , You're free to use and redistribute under the terms of the license.**
 
